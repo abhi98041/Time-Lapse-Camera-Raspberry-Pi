@@ -1,0 +1,2 @@
+1) Enable the pi camera
+2) Install the av library. Just type "sudo apt-get install libav-tools" in the terminal. And it will install.
